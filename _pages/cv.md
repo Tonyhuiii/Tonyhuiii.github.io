@@ -16,7 +16,7 @@ Education
 
 Skills
 ======
-* Python, Pytorch
+* Python, PyTorch
 
 
 Publications
