@@ -6,9 +6,9 @@ author_profile: true
 ---  
   
 
-<b>2019</b>   
+<b><font size=4>2019</font></b>   
   
-&emsp;&emsp;<b>Signal Enhancement of Cadmium in Lettuce Using Laser-Induced Breakdown Spectroscopy Combined with Pyrolysis Process</b>  
+&emsp;&emsp;<b><font size=2>Signal Enhancement of Cadmium in Lettuce Using Laser-Induced Breakdown Spectroscopy Combined with Pyrolysis Process</font></b>  
 &emsp;&emsp;<b><font color=#FFD306>Zhenghui Chen</font></b>, Tingting Shen, Jingdong Yao, Wei Wang, Fei Liu, Xiaolong Li and Yong He  
 &emsp;&emsp;Molecules 2019  
 
