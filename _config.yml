@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Zhenghui CHEN"
-  avatar           : "profile.png"
+  avatar           : "1.jpeg"
   bio              : "MPhil student, HKUST"
   location         : "Hong Kong"
   employer         :
-#   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=9tcOMf0AAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         :"https://www.facebook.com/profile.php?id=100027498615231"
   foursquare       :
   github           : "Tonyhuiii"
   google_plus      :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
