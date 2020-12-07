@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a MPhil student at Translational and Advanced Bioimaging Laboratory [TAB](https://ttwwong.wixsite.com/tabhkust), Department of Chemical and Biological Engineering [CBE](https://cbe.ust.hk/index.php), The Hong Kong University of Science and Technology.  
-My research interests includes bioimaging, deep learning.
+I am currently a MPhil student at Translational and Advanced Bioimaging Laboratory [(TAB)](https://ttwwong.wixsite.com/tabhkust), Department of Chemical and Biological Engineering [(CBE)](https://cbe.ust.hk/index.php), The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/).  
+My research area is in Biomedical Engineering and Biomedical Imaging. The research interests include microscopy and deep learning for biomedical applications. 
+![group photo](/images/2.jped)
 
-A data-driven personal website
+#Highlights
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
+Todo
 
