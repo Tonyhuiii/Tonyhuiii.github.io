@@ -14,5 +14,5 @@ redirect_from:
 
 Highlights
 ======
-* Todo
+* First Runner up of the Best Paper Award in the IEEE Photonics Society's 20th Postgraduate Conference
 
