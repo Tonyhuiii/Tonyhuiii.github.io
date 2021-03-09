@@ -8,7 +8,7 @@ author_profile: true
 <b><font size=4>2021</font></b>   
 &emsp;&emsp;<b><font size=2>Deep Learning Assisted Microscopy with Ultraviolet Surface Excitation for Histological Imaging</font></b>  
 &emsp;&emsp;<font size=2><b>Zhenghui Chen</b>, Wentao Yu, Ivy H. M. Wong, Terence T. W. Wong</font>  
-&emsp;&emsp;<font color=gray size=2>First Runner up of the Best Paper Award in the IEEE Photonics Society's 20th Postgraduate Conference</font>    
+&emsp;&emsp;<font color=gray size=2>The 20th IEEE Photonics Society (Hong Kong Chapter) Postgraduate Conference</font>    
 
 
 <b><font size=4>2019</font></b>   
