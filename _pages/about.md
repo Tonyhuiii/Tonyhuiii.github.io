@@ -14,5 +14,5 @@ redirect_from:
 
 Highlights
 ======
-* First Runner up of the Best Paper Award in the IEEE Photonics Society's 20th Postgraduate Conference
+* <b>First Runner up</b> of the Best Paper Award in the The 20th IEEE Photonics Society (Hong Kong Chapter) Postgraduate Conference
 
