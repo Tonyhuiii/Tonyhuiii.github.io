@@ -17,11 +17,11 @@ redirect_from:
 
 <b><font size=4>Teaching Assistant</font></b>  
 ======
-* <font size=3>BIEN 3910 - Bioengineering Laboratory (2020 Fall)</b>
-* <font size=3>BIEN 2310 - Modeling for Chemical and Biological Engineering (2021Fall)</b>
-* <font size=3>BIEN 1010 - Introduction to Biomedical Engineering (2022 Spring)</b>
+* <font size=3>BIEN 3910 - Bioengineering Laboratory (2020 Fall)</font>
+* <font size=3>BIEN 2310 - Modeling for Chemical and Biological Engineering (2021Fall)</font>
+* <font size=3>BIEN 1010 - Introduction to Biomedical Engineering (2022 Spring)</font>
 
 
 <b><font size=4>Skills</font></b>  
 ======
-* <font size=3>Python, PyTorch</b>
+* <font size=3>Python, PyTorch</font>
