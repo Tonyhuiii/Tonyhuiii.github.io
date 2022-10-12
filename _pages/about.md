@@ -15,4 +15,4 @@ redirect_from:
 Highlights
 ======
 * <b>First Runner up</b> of the Best Paper Award in the The 20th IEEE Photonics Society (Hong Kong Chapter) Postgraduate Conference (2021)
-* Conference paper <b>accepted for oral presentation</b> in Label-free Biomedical Imaging and Sensing (LBIS) in SPIE Photonics West (2022-23)
+* Conference paper <b>accepted for oral presentation</b> by Label-free Biomedical Imaging and Sensing (LBIS) in SPIE Photonics West (2022-23)
