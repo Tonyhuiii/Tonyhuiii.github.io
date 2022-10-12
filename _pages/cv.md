@@ -13,7 +13,7 @@ redirect_from:
 ======
 * <font size=3>B.S. in Agricultural Engineering, Zhejiang University, 2015-2019 </font>
 * <font size=3>M.S. in Bioengineering, The Hong Kong University of Science and Technology, 2019-2021</font>
-* <font size=3>PhD  in Bioengineering, The Hong Kong University of Science and Technology, 2021-2024 (Expected)</font>
+* <font size=3>Ph.D. in Bioengineering, The Hong Kong University of Science and Technology, 2021-2024 (Expected)</font>
 
 <b><font size=4>Teaching Assistant</font></b>  
 ======
