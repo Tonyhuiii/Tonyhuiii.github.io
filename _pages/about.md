@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 * I am currently a PhD student at Translational and Advanced Bioimaging Laboratory [(TAB)](https://ttwwong.wixsite.com/tabhkust), Department of Chemical and Biological Engineering [(CBE)](https://cbe.ust.hk/index.php), The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/).  
-* My research area is in Biomedical Engineering and Biomedical Imaging. The research interests focus on deep learning applications for bioimaging, including virtual staining, super resolution and AI dignosis.  
+* My research area is in Biomedical Engineering and Biomedical Imaging. The research interests focus on deep learning applications for bioimaging, including virtual staining, super resolution and AI diagnosis.  
 ![group photo](/images/2.jpeg)
 
 Highlights
