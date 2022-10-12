@@ -22,6 +22,6 @@ redirect_from:
 * <font size=3>BIEN 1010 - Introduction to Biomedical Engineering (2022 Spring)</b>
 
 
-<b><font size=4>Skills</font></b>  
+<b><font size=4>Skills</font></b>
 ======
 * <font size=3>Python, PyTorch</b>
