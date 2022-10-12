@@ -7,7 +7,7 @@ author_profile: true
 <b><font size=4>2022-23</font></b>   
 &emsp;&emsp;<b><font size=2>Development of computational high-throughput autofluorescence microscopy by pattern illumination using a low-cost light-emitting diode assisted by deep learning</font></b>  
 &emsp;&emsp;<font size=2><b>Zhenghui Chen</b>, Ivy H. M. Wong, Lei Kang, Weixing Dai, Terence T. W. Wong</font>  
-&emsp;&emsp;<font color=gray size=2>Label-free Biomedical Imaging and Sensing (LBIS) 2023 in SPIE Photonics West</font>    
+&emsp;&emsp;<font color=gray size=2>Label-free Biomedical Imaging and Sensing (LBIS) in SPIE Photonics West 2023</font>    
 
 <b><font size=4>2021</font></b>   
 &emsp;&emsp;<b><font size=2>Deep Learning Assisted Microscopy with Ultraviolet Surface Excitation for Histological Imaging</font></b>  
