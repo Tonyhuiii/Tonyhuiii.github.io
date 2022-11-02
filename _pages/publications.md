@@ -4,10 +4,21 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---  
-<b><font size=4>2022-23</font></b>   
+<b><font size=4>2023</font></b>   
 &emsp;&emsp;<b><font size=2>Development of computational high-throughput autofluorescence microscopy by pattern illumination using a low-cost light-emitting diode assisted by deep learning</font></b>  
 &emsp;&emsp;<font size=2><b>Zhenghui Chen</b>, Ivy H. M. Wong, Lei Kang, Weixing Dai, Terence T. W. Wong</font>  
 &emsp;&emsp;<font color=gray size=2>Label-free Biomedical Imaging and Sensing (LBIS) in SPIE Photonics West 2023</font>    
+
+<b><font size=4>2021</font></b>   
+&emsp;&emsp;<b><font size=2>Slide-free histological imaging by microscopy with ultraviolet surface excitation using speckle illumination</font></b>  
+&emsp;&emsp;<font size=2>Ivy H. M. Wong, Yan Zhang, <b>Zhenghui Chen</b>, Lei Kang, Terence T. W. Wong</font>  
+&emsp;&emsp;<font color=gray size=2>Biomed. Opt. Express 12, 5920-5938 (2021)</font>    
+
+<b><font size=4>2021</font></b>   
+&emsp;&emsp;<b><font size=2>Deep-learning-assisted microscopy with ultraviolet surface excitation for rapid slide-free histological imaging</font></b>  
+&emsp;&emsp;<font size=2><b>Zhenghui Chen</b>, Wentao Yu, Ivy H. M. Wong, Terence T. W. Wong</font>  
+&emsp;&emsp;<font color=gray size=2>Biomed. Opt. Express 12, 5920-5938 (2021)</font>    
+
 
 <b><font size=4>2021</font></b>   
 &emsp;&emsp;<b><font size=2>Deep Learning Assisted Microscopy with Ultraviolet Surface Excitation for Histological Imaging</font></b>  
