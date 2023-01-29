@@ -21,7 +21,11 @@ redirect_from:
 * <font size=3>BIEN 2310 - Modeling for Chemical and Biological Engineering (2021Fall)</font>
 * <font size=3>BIEN 1010 - Introduction to Biomedical Engineering (2022 Spring)</font>
 
+<b><font size=4>Experience</font></b>  
+======
+* <font size=3>2022 APAC J.P. Morgan Quantitative Research Early Mentorship Program (Part time, Hong Kong)</font>
+* <font size=3>[Time series imputaion using conditional diffusion models](https://github.com/Tonyhuiii/MLCOE-Tensorflow-) - Machine Learning Center of Excellence(MLCOE), JP Morgan</font>
 
 <b><font size=4>Skills</font></b>  
 ======
-* <font size=3>Python, PyTorch</font>
+* <font size=3>Python, PyTorch, TensorFlow</font>
