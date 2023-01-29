@@ -24,7 +24,7 @@ redirect_from:
 <b><font size=4>Experience</font></b>  
 ======
 * <font size=3>2022 APAC J.P. Morgan Quantitative Research Early Mentorship Program (June.2022 – Aug.2022)</font>
-* [Time series imputaion using conditional diffusion models](https://github.com/Tonyhuiii/MLCOE-Tensorflow-) - Machine Learning Center of Excellence(MLCOE), JP Morgan (Nov.2022 – Jan.2023)
+* <font size=3>Time series imputaion using conditional diffusion models - Machine Learning Center of Excellence(MLCOE), JP Morgan (Nov.2022 – Jan.2023)</font>
 
 <b><font size=4>Skills</font></b>  
 ======
