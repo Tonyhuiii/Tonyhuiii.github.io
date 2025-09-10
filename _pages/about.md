@@ -15,8 +15,8 @@ redirect_from:
 
 Highlights
 ======
-* [Journal paper](https://doi.org/10.1016/j.modpat.2024.100487)published in <b> Modern Pathology </b> in April 2024.
-* [Journal paper](https://doi.org/10.1364/BOE.515018)published in <b> Biomedical Optics Express </b> in Mar 2024.
+* [Journal paper](https://doi.org/10.1016/j.modpat.2024.100487) published in <b> Modern Pathology </b> in April 2024.
+* [Journal paper](https://doi.org/10.1364/BOE.515018) published in <b> Biomedical Optics Express </b> in Mar 2024.
 * Conference paper <b>accepted for oral presentation</b> by Label-free Biomedical Imaging and Sensing (LBIS) in SPIE Photonics West 2023
 ![spie2023](/images/spie.jpeg)
 * <b>First Runner up</b> of the Best Paper Award in the The 20th IEEE Photonics Society (Hong Kong Chapter) Postgraduate Conference (2021)
