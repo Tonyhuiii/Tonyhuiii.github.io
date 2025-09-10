@@ -20,7 +20,7 @@ Highlights
 * Conference paper <b>accepted for oral presentation</b> by Label-free Biomedical Imaging and Sensing (LBIS) in SPIE Photonics West 2023
 <div style="margin-top:0.5em;">
   <a href="/images/spie.jpeg">
-    img src="/images/spie-600.jpg" width="300" loading="lazy" alt="spie2023">
+    <img src="/images/spie-600.jpg" width="300" loading="lazy" alt="spie2023">
   </a>
 </div>
 * <b>First Runner up</b> of the Best Paper Award in the The 20th IEEE Photonics Society (Hong Kong Chapter) Postgraduate Conference (2021)
