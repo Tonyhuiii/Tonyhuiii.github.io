@@ -18,12 +18,11 @@ author_profile: true
 &emsp;&emsp;<font size=2><b>Zhenghui Chen</b>, Ivy H. M. Wong, Lei Kang, Weixing Dai, Terence T. W. Wong</font>  
 &emsp;&emsp;<font color=gray size=2>Label-free Biomedical Imaging and Sensing (LBIS) in SPIE Photonics West 2023</font>    
 
-<b><font size=4>2022</font></b>   
+<b><font size=4>2021</font></b>   
 &emsp;&emsp;<b><font size=2>Slide-free histological imaging by microscopy with ultraviolet surface excitation using speckle illumination</font></b>  
 &emsp;&emsp;<font size=2>Ivy H. M. Wong, Yan Zhang, <b>Zhenghui Chen</b>, Lei Kang, Terence T. W. Wong</font>  
 &emsp;&emsp;<font color=gray size=2>Photonics Research 10 (1), 120-125</font>    
 
-<b><font size=4>2021</font></b>   
 &emsp;&emsp;<b><font size=2>Deep-learning-assisted microscopy with ultraviolet surface excitation for rapid slide-free histological imaging</font></b>  
 &emsp;&emsp;<font size=2><b>Zhenghui Chen</b>, Wentao Yu, Ivy H. M. Wong, Terence T. W. Wong</font>  
 &emsp;&emsp;<font color=gray size=2>Biomedical Optics Express 12 (9), 5920-5938</font>    
