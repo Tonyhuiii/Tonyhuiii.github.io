@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a Postdoc at Medical Artificial Intelligence Center, Hangzhou Institute of Medicine (HIM)，Chinese Academy of Sciences (CAS).
+* I am currently a Postdoc at Medical Artificial Intelligence Center, Hangzhou Institute of Medicine (HIM), Chinese Academy of Sciences (CAS).
 * I obtained a PhD degree of Bioengineering at Translational and Advanced Bioimaging Laboratory [(TAB)](https://ttwwong.wixsite.com/tabhkust), Department of Chemical and Biological Engineering [(CBE)](https://cbe.ust.hk/index.php), The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/).  
-* My research mainly focuses on Computational Pathology，including virtual histological staining, tumor diagnosis and biomarker dectection.  
+* My research mainly focuses on Computational Pathology, including virtual histological staining, tumor diagnosis and biomarker dectection.  
 
 
 Highlights
 ======
-* Journal paper accepted <b> Modern Pathology </b> in 2024
-Lung Cancer Diagnosis on Virtual Histologically Stained Tissue Using Weakly Supervised Learning
+* [Journal paper](https://doi.org/10.1016/j.modpat.2024.100487)) published in <b> Modern Pathology </b> in April 2024.
+* [Journal paper](https://doi.org/10.1364/BOE.515018)) published in <b> Biomedical Optics Express </b> in Mar 2024.
 * Conference paper <b>accepted for oral presentation</b> by Label-free Biomedical Imaging and Sensing (LBIS) in SPIE Photonics West 2023
 ![spie2023](/images/spie.jpeg)
 * <b>First Runner up</b> of the Best Paper Award in the The 20th IEEE Photonics Society (Hong Kong Chapter) Postgraduate Conference (2021)
