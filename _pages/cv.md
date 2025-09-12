@@ -11,7 +11,7 @@ redirect_from:
 
 <b><font size=4> Work Experience</font></b>  
 ======
-* <font size=3>Postdoc in Biomedical Engineering, Medical Artificial Intelligence Center, Hangzhou Institute of Medicine (HIM), Chinese Academy of Sciences (CAS), starting from 2025.7 </font>
+* <font size=3>Postdoc in Biomedical Engineering, Medical Artificial Intelligence Center, Hangzhou Institute of Medicine (HIM), Chinese Academy of Sciences (CAS), starting from July.2025 </font>
 * <font size=3>Time series imputation using conditional diffusion models - Machine Learning Center of Excellence(MLCOE), JP Morgan (Nov.2022 – Jan.2023, remote)</font>
 * <font size=3>2022 APAC J.P. Morgan Quantitative Research Early Mentorship Program (June.2022 – Aug.2022, remote)</font>
 
