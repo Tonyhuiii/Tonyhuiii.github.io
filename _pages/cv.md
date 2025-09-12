@@ -17,9 +17,9 @@ redirect_from:
 
 <b><font size=4>Education Background</font></b>  
 ======
-* <font size=3>Ph.D. in Bioengineering, The Hong Kong University of Science and Technology, 2021.9-2024.7</font>
-* <font size=3>M.S. in Bioengineering, The Hong Kong University of Science and Technology, 2019.9-2021.8</font>
-* <font size=3>B.S. in Agricultural Engineering, Zhejiang University, 2015.9-2019.7 </font>
+* <font size=3>Ph.D. in Bioengineering, The Hong Kong University of Science and Technology, Sep.2021-July.2024</font>
+* <font size=3>M.S. in Bioengineering, The Hong Kong University of Science and Technology, Sep.2019-Aug.2021</font>
+* <font size=3>B.S. in Agricultural Engineering, Zhejiang University, Sep.2015-July.2019 </font>
 
 <b><font size=4>Teaching Assistant Experience</font></b>  
 ======
